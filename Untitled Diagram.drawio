@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-05-12T15:57:27.166Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="ficnLWvvBhoy523momyT" version="18.0.2" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-12T16:00:30.633Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="CRy8bXMiwjxtvzSUPb9K" version="18.0.2" type="github">
   <diagram id="GlNRfqU0NGuZ9YdK1LBT" name="Page-1">
-    <mxGraphModel dx="5177" dy="3650" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3734" dy="2800" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,10 +57,10 @@
         <mxCell id="wOLwn53-0b_6r-H6Qc0d-15" value="&amp;lt;fulfillment&amp;gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;拍品发布确认&lt;br&gt;&lt;/b&gt;&lt;br&gt;created_at" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="814.63" y="314.48" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wOLwn53-0b_6r-H6Qc0d-18" value="&amp;lt;fulfillment&amp;gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;支付款项申请&lt;br&gt;&lt;/b&gt;&lt;br&gt;created_at&lt;br&gt;expired_at" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="wOLwn53-0b_6r-H6Qc0d-18" value="&amp;lt;fulfillment&amp;gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;支付成交费申请&lt;br&gt;&lt;/b&gt;&lt;br&gt;created_at&lt;br&gt;expired_at" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="540" y="440" width="130" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="wOLwn53-0b_6r-H6Qc0d-20" value="&amp;lt;evidence&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;支付款项确认&lt;/b&gt;&lt;br&gt;&lt;br&gt;created_at" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
+        <mxCell id="wOLwn53-0b_6r-H6Qc0d-20" value="&amp;lt;evidence&amp;gt;&lt;br&gt;&lt;br&gt;&lt;b&gt;支付成交费确认&lt;/b&gt;&lt;br&gt;&lt;br&gt;created_at" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#fa6800;strokeColor=#C73500;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="807.06" y="440" width="140" height="100" as="geometry" />
         </mxCell>
         <mxCell id="wOLwn53-0b_6r-H6Qc0d-21" value="&amp;lt;fulfillment&amp;gt;&lt;br&gt;&lt;b&gt;&lt;br&gt;支付流拍申请&lt;br&gt;&lt;/b&gt;&lt;br&gt;created_at&lt;br&gt;expired_at" style="rounded=1;whiteSpace=wrap;html=1;verticalAlign=top;fillColor=#d80073;strokeColor=#A50040;fontColor=#ffffff;" parent="1" vertex="1">
